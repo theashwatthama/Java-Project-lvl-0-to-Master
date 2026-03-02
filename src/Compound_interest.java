@@ -20,5 +20,6 @@ public class Compound_interest {
 
         amount=principle*Math.pow(1+rate/timesCompounded,timesCompounded*years);
         System.out.println("The amount after "+years+" is : "+amount);
+        sc.close();
     }
 }
