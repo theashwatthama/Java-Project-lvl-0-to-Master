@@ -11,10 +11,17 @@ All the Java program files are located inside the src folder.
 Java-Programs/
 │
 ├── src/
-│   ├── Program1.java
-│   ├── Program2.java
-│   ├── Program3.java
-│   └── ...
+│   ├── MAD LIBS GAME
+│   ├── SHOPPING CART
+│   ├── COMPOUND INTEREST
+│   ├── SHOPPING CART
+│   ├── WEIGHT CONVERTER
+│   ├── TEMPERATURE CONVERTER
+│   ├── SIMPLE CALCULATOR
+│   ├── 
+│   ├── 
+│   ├── 
+
 📚 What I am Learning
 
 Basic Java Syntax
