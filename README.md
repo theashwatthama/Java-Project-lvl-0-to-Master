@@ -1,57 +1,52 @@
-# Java Projects Zero To Master 🚀
+Java Programs Practice 🚀
 
-Welcome to my Java learning journey!
+This repository contains Java programs that I am practicing while learning Java programming.
 
-This repository documents my progress of learning Java by building projects from scratch and improving step by step from beginner to advanced level.
+I am following a YouTube tutorial and implementing all the programs step-by-step to improve my understanding of core Java concepts.
 
-The main goal of this repository:
-Learn Java → Practice → Build Projects → Become Job Ready
+📂 Project Structure
 
----
+All the Java program files are located inside the src folder.
 
-## 📂 Where are the projects?
+Java-Programs/
+│
+├── src/
+│   ├── Program1.java
+│   ├── Program2.java
+│   ├── Program3.java
+│   └── ...
+📚 What I am Learning
 
-All my Java project source codes are inside the **src** folder.
+Basic Java Syntax
 
-Go to:
-src → project folders → java files
+Variables and Data Types
 
-Every project will be organized in separate packages/folders inside the src directory.
+Operators
 
----
+Conditional Statements
 
-## What I am learning here
+Loops
 
-- Java Basics (variables, loops, conditions)
-- Functions & Methods
-- Object Oriented Programming (OOP)
-- Arrays & Strings
-- Collections Framework
-- File Handling
-- Exception Handling
-- Mini Applications
-- (Future) Spring Boot Projects
+Functions / Methods
 
----
+Pattern Programs
 
-## Why this repository?
+Basic Problem Solving
 
-This is not just a code storage repository.
+🎯 Purpose of this Repository
 
-This repository is my:
-- Daily practice log
-- Coding consistency proof
-- Portfolio for internships
+Practice Java programming
 
-I will continuously update and push new projects here.
+Track my daily learning progress
 
----
+Build consistency on GitHub
 
-## Tech Used
-- Java
-- IntelliJ IDEA
-- Git & GitHub
+Improve problem solving skills
 
----
+🛠 Tech Used
 
-⭐ If you are also learning Java, you can follow this repo and practice along with me.
+Java
+
+IntelliJ IDEA
+
+⭐ This repository is part of my Java learning journey from beginner to advanced.
