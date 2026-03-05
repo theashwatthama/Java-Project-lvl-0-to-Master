@@ -4,23 +4,23 @@ This repository contains Java programs that I am practicing while learning Java 
 
 I am following a YouTube tutorial and implementing all the programs step-by-step to improve my understanding of core Java concepts.
 
-📂 Project Structure
+## 📂 Project Structure
 
-All the Java program files are located inside the src folder.
+All the Java program files are located inside the **src folder**.
 
-Java-Programs/
+```
+Java-Projects
 │
-├── src/
-│   ├── MAD LIBS GAME
-│   ├── SHOPPING CART
-│   ├── COMPOUND INTEREST
-│   ├── SHOPPING CART
-│   ├── WEIGHT CONVERTER
-│   ├── TEMPERATURE CONVERTER
-│   ├── SIMPLE CALCULATOR
-│   ├── 
-│   ├── 
-│   ├── 
+├── src
+│   ├── MadLibsGame.java
+│   ├── ShoppingCart.java
+│   ├── CompoundInterest.java
+│   ├── WeightConverter.java
+│   ├── TemperatureConverter.java
+│   └── SimpleCalculator.java
+│
+└── README.md
+```
 
 📚 What I am Learning
 
