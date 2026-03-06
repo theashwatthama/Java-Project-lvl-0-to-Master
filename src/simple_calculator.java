@@ -2,9 +2,7 @@ import java.util.Scanner;
 public class simple_calculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
         // SIMPLE CALCULATOR USING SWITCH CASES
-
         double num1;
         double num2;
         char operator;
