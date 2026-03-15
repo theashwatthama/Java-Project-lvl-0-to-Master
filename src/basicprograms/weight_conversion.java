@@ -1,3 +1,5 @@
+package basicprograms;
+
 import java.util.Scanner;
 public class weight_conversion {
     public static void main(String[] args) {

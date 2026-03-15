@@ -1,3 +1,5 @@
+package basicprograms;
+
 import java.util.Scanner;
 
 public class Banking_program {

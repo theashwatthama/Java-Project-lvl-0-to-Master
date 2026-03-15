@@ -1,3 +1,5 @@
+package basicprograms;
+
 import java.util.Scanner;
 
 public class temprature_converter {

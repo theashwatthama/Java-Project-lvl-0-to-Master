@@ -1,3 +1,5 @@
+package basicprograms;
+
 import java.util.Scanner;
 public class MAD_LIBS_GAME {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package basicprograms;
+
 import java.util.Scanner;
 public class simple_calculator {
     public static void main(String[] args) {
