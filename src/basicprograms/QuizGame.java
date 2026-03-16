@@ -28,10 +28,21 @@ public class QuizGame {
         for (int i = 0; i < questions.length ; i++) {
             System.out.println(questions[i]);
 
-            for(String option :options[i]){
+            for(String option :options[i]) {
                 System.out.println(option);
             }
+            System.out.print("Choose the correct option : ");
+            guess = sc.nextInt();
+
+            if(guess == answers[i]){
+                System.out.println("Correct!");
+                score++;
+            } else {
+                System.out.println("Wrong!");
+            }
+
         }
+        System.out.println("You Scored "+score +" out of "+questions.length);
 
     }
 }
