@@ -13,7 +13,6 @@ public class ParkourDesign {
 
             long x = sc.nextLong();
             long y = sc.nextLong();
-
             boolean ok;
 
             if (y >= 0) {
@@ -23,7 +22,6 @@ public class ParkourDesign {
                 long rem = x - 4 * (-y);
                 ok = (rem >= 0 && rem % 3 == 0);
             }
-
             System.out.println(ok ? "YES" : "NO");
         }
     }
